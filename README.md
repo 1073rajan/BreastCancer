@@ -1,4 +1,4 @@
-## BreastCancer Prediction Using Machine Learning.
+# BreastCancer Prediction Using Machine Learning.
 
 ## Introduction
 Breast cancer is a prevalent disease affecting millions of women worldwide. 
@@ -23,7 +23,7 @@ The features include various measures of cell nuclei characteristics such as rad
 - To use this project:
 **Clone the repository:**
    ```sh
-   git clone https://github.com/your_username/breast-cancer-prediction.git
+   git clone https://https://github.com/1073rajan/BreastCancer.git
 
 ## Install the required dependencies:
 
