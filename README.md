@@ -23,7 +23,7 @@ The features include various measures of cell nuclei characteristics such as rad
 - To use this project:
 **Clone the repository:**
    ```sh
-   git clone https://github.com/your_username/breast-cancer-prediction.git
+   git clone https://https://github.com/1073rajan/BreastCancer.git
 
 ## Install the required dependencies:
 
@@ -44,4 +44,4 @@ Further details on performance metrics and visualization of results can be found
 ## Future Work
 - Enhanced Feature Engineering: Exploring additional features or extracting more meaningful information from existing ones.
 - Ensemble Methods: Investigating ensemble learning techniques to further improve model performance.
-- Deployment: Integrating the trained model into a web application or deploying it as an API for real-time predictions
+- Deployment: Integrating the trained model into a web application or deploying it as an API for real-time predictions.
